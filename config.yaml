@@ -17,8 +17,9 @@ params:
   fdroid: info.guardianproject.checkey
   github: guardianproject/checkey
   gitlab: guardianproject/checkey
-  header_heading_color: "#ffa"
+  header_heading_color: "#d66"
   section_headings_color: "#777"
+  featureGraphicOverlay: true
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
