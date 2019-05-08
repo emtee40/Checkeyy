@@ -1,0 +1,4 @@
+v0.1.1
++ añade traducciones: de es fi ja ko nb tr
++ proceso de compilación reproducible
++ añade el último Android Support v7 para reparar caídas

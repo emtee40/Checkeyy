@@ -1,0 +1,4 @@
+v0.1.1
++ 翻訳を追加: de es fi ja ko nb tr
++ 再現可能なビルドプロセス
++ クラッシュを修正するため、最新の Android Support V7 を追加
