@@ -16,3 +16,5 @@
 /public/
 /resources/
 
+# Fastlane
+/fastlane/report.xml
