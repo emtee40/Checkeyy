@@ -25,32 +25,30 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 languages:
   az:
-    languageCode: az
+    languageCode: az-AZ
   el:
-    languageCode: el
+    languageCode: el-GR
   en:
     languageCode: en-US
   es:
-    languageCode: es
+    languageCode: es-ES
   fi:
-    languageCode: fi
+    languageCode: fi-FI
   ja:
-    languageCode: ja
+    languageCode: ja-JP
   ko:
-    languageCode: ko
-  nb:
-    languageCode: nb
+    languageCode: ko-KR
   "no":
-    languageCode: "no"
+    languageCode: no-NO
   pt:
     languageCode: pt-PT
   pt-BR:
-    languageCode: pt-PT
+    languageCode: pt-BR
   ru:
-    languageCode: ru
+    languageCode: ru-RU
   sl:
     languageCode: sl
   tr:
-    languageCode: tr
+    languageCode: tr-TR
   zh-CN:
     languageCode: zh-CN
