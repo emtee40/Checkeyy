@@ -26,6 +26,8 @@ defaultContentLanguageInSubdir: true
 languages:
   az:
     languageCode: az-AZ
+  de:
+    languageCode: de-DE
   el:
     languageCode: el-GR
   en:
@@ -34,6 +36,8 @@ languages:
     languageCode: es-ES
   fi:
     languageCode: fi-FI
+  fr:
+    languageCode: fr-FR
   ja:
     languageCode: ja-JP
   ko:
