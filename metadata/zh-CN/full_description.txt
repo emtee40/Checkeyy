@@ -1,14 +1,16 @@
-Checkey 是一个获得已安装 APK 相关信息的实用工具。它从您的设备上已安装的所有应用开始，一键触摸即可显示 APK 的指纹，并且提供到达 virustotal.com 和 androidobservatory.org 的快捷链接，让您方便地了解特定 APK 的档案。它还可以让您导出签名证书和生成 ApkSignaturePin Pin 文件供 TrustedIntents 库使用。
-★ Checkey 支持下列语言：
-Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
-没看到您的语言？帮忙翻译本应用吧：
+Checkey 是一个获得已安装 APK 信息的实用工具。从一个已经安装在你设备上的所有应用的列表开始，只需触摸一下，它便会向你显示APK签名，并且提供到virustotal.com和androidobservatory.org的链接来轻松访问APK的详细情况。它还允许导出签名证书并生成ApkSignaturePin pin文件，以便与TrustedIntents库一起使用。
+
+★开源：我们的代码是透明的。您可以查看或加入社区，以帮助使Checkey变得更好:
+https://gitlab.com/guardianproject/checkey
+★我们说你的语言：Checkey对说下列语言的朋友可用：德语、英语、西班牙语、芬兰语、日语、朝鲜语、挪威语、葡萄牙语、俄语、斯洛文尼亚语、俄语......
+
+没看到你的语言?加入我们，帮助翻译这个应用程序：
 https://hosted.weblate.org/projects/guardianproject/checkey/
 https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
 
-***详细了解***
-★ 关于我们：Guardian 项目是一个开发者小组，致力于创造移动应用和开源代码的美好明天
-★ 我们的网站: https://GuardianProject.info
-★ 我们的 Twitter: https://twitter.com/guardianproject
-★ 自由软件：Checkey 是自由软件。您可以查看我们的源代码，还可以帮助我们让 Checkey 变得更好：
-https://gitlab.com/guardianproject/checkey
-★ 致用户：我们还缺少你喜欢的功能？发现了一个 bug？请告诉我们！我们乐于听取您的意见。请发送电子邮件至: support@guardianproject.info 或者加入我们的聊天室 https://guardianproject.info/contact
+***了解我们**
+★关于我们：Guardian项目是一群开发人员，他们致力于开发安全的移动应用程序和开源代码，以创造更美好的明天
+★我们的网站：https://GuardianProject.info了解更多关于我们的信息
+★推特帐户： https://twitter.com/guardianproject
+★自由软件：Checkey是自由软件。您可以查看我们的源代码，或者为帮助Checkey变得更好做出贡献:https://gitlab.com/guardianproject/checkey
+★给我们发消息：我们是不是错过了你最喜欢的功能?发现了一个恼人的bug?请告诉我们!我们希望收到你的来信。发送电子邮件给我们:support@guardianproject.info或在我们的聊天室找到我们https://guardianproject.info/contact

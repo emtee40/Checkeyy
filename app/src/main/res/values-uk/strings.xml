@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="package_name">Назва пакунку:</string>
+    <string name="app_description">Checkey - це застосунок для отримання відомостей про APK, які встановлено на вашому пристрої. Починаючи зі списку всіх застосунків, які ви встановили на своєму пристрої, він умить покаже підпис APK та надасть посилання на virustotal.com та androidobservatory.org для легкого доступу до профілів цього APK. Це також дозволить вам експортувати сертифікат підпису та утворити номерні файли ApkSignaturePin для використання з бібліотекою TrustedIntents.</string>
+    <string name="issuer">Джерело:</string>
+    <string name="save">Зберегти…</string>
+    <string name="share_url_using">Поділитися URL-адресою за допомогою:</string>
+    <string name="generate_pin">Створити номер</string>
+    <string name="by_apk_hash">Геш APK</string>
+    <string name="data_directory">Шлях до даних:</string>
+    <string name="icon">Образок</string>
+    <string name="target_sdk_version">Цільова версія SDK:</string>
+    <string name="version">Версія:</string>
+    <string name="key_type">Вид ключа:</string>
+    <string name="serial">Серійний номер:</string>
+    <string name="save_cert_using">Зберегти сертифікат за допомогою:</string>
+    <string name="open_in_browser">Відкрити в переглядачі</string>
+    <string name="by_signing_certificate">Підпис сертифікату</string>
+    <string name="details">Докладності</string>
+    <string name="public_apk_path">Загальнодоступний шлях APK:</string>
+    <string name="subject">Суб\'єкт:</string>
+    <string name="error_no_app_entry">Запис у застосунку не знайдено!</string>
+    <string name="by_package_name">Назва пакунку</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="signature_type">Вид підпису:</string>
+    <string name="apk_path">Шлях до APK:</string>
+    <string name="expires">Закінчується:</string>
+    <string name="app_name">Checkey</string>
+    <string name="share">Поділитися</string>
+    <string name="created">Створено:</string>
+    <string name="error_cannot_make_fingerprint">Неможливо зробити відбиток сертифікату!</string>
+    <string name="virustotal">VirusTotal</string>
+    <string name="no_applications_found">Не знайдено застосунків</string>
+</resources>

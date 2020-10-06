@@ -1,0 +1,3 @@
++ adicionar traduções: de es fi ja ko nb tr
++ processo de compilação reproduzível
++ adicionar suporte ao último Android v7 para erros

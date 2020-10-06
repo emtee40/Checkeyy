@@ -1,14 +1,16 @@
-Checkey は、お使いのデバイスにインストールされている APK の情報を取得するユーティリティです。お使いのデバイスにインストールされたすべてのアプリのリストをはじめ、ワンタッチで APK シグネチャを表示したり、virustotal.com と androidobservatory.org へのリンクを提供して、簡単に APK のプロファイルにアクセスすることができます。また、署名証明書のエクスポート、TrustedIntents ライブラリで使用する ApkSignaturePin ピンファイルの生成ができます。
-★ あなたの言語でお使いいただけます: Checkey は次の言語を話す友だちが利用できます:
-Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
-あなたの言語が見つかりませんか? 私たちに参加して、アプリの翻訳を支援してください:
+Checkey は、お使いのデバイスにインストールされている APK に関する情報を取得するためのユーティリティです。お使いのデバイスにインストールされたすべてのアプリの一覧から始めて、1 回のタッチで APK の署名が表示され、virustotal.com と androidobservatory.org へのリンクが表示され、その APK のプロファイルに簡単にアクセスできます。また、署名証明書をエクスポートし、TrustedIntents ライブラリーで使用する ApkSignaturePin pin ファイルを生成することもできます。
+
+★ オープンソース: 私たちのコードは透明性があります。コミュニティを参照したり参加して、Checkey をさらに良くするためにすることができます: https://gitlab.com/guardianproject/checkey
+★ お使いの言語を話します: Checkey は次の言語を話す友人が利用可能です: Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
+
+お使いの言語が表示されませんか? 参加して、アプリの翻訳を支援してください:
 https://hosted.weblate.org/projects/guardianproject/checkey/
 https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
 
-***さらに詳しく***
-★ 私たちについて: Guardian Project は、より良い明日のために、安全なモバイル アプリやオープン ソース コードを作る開発者のグループです
-★ WEBサイト: https://GuardianProject.info
-★ TWITTER: https://twitter.com/guardianproject
-★ フリーソフトウェア: Checkey はフリーソフトウェアです。私たちのソースコードを見たり、Checkey をさらに良くする手助けに貢献することができます:
-https://gitlab.com/guardianproject/checkey
-★ 私たちにメッセージをお送りください: あなたのお気に入りの機能が不足していませんか? 迷惑なバグを発見されましたか? ご連絡ください! 私たちはあなたのご意見をお待ちしています。私たちにメールをお送りください: support@guardianproject.info または私たちのチャットルーム https://guardianproject.info/contact から
+
+***詳細を見る***
+★ 私たちについて: ガーディアンプロジェクトは、より良い明日のために安全なモバイルアプリとオープンソースコードを作る開発者のグループです
+★ 私たちのウェブサイト: 詳細は https://GuardianProject.info
+★ ツイッターで: https://twitter.com/guardianproject
+★ フリーソフトウェア: Checkey はフリーソフトウェアです。ソースコードを参照したり、Checkey をさらに良くするために貢献することができます: https://gitlab.com/guardianproject/checkey
+★ 私たちにメッセージをお送りください: あなたのお気に入りの機能が見つかりませんか? 迷惑なバグを見つけましたか? お知らせください! 私たちにあなたのご意見をお知らせください。メールをお送りください: support@guardianproject.info またはチャットルームで見つけてください https://guardianproject.info/contact

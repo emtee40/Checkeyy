@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Checkey</string>
     <string name="app_description">Checkey это программа для получения информации относительно APK которые установлены
@@ -9,29 +9,33 @@
     </string>
     <string name="icon">Ярлык</string>
     <string name="action_settings">Настройки</string>
-    <string name="no_applications_found">Не обнаружено программ.</string>
+    <string name="no_applications_found">Приложения не найдены</string>
     <string name="virustotal">VirusTotal</string>
     <string name="by_package_name">Наименование пакета программ</string>
     <string name="by_apk_hash">Хэш APK</string>
     <string name="by_signing_certificate">Код сертификата</string>
     <string name="open_in_browser">Открыть в браузере.</string>
     <string name="share">Поделиться</string>
-    <string name="share_url_using">Поделиться веб-ссылкой:</string>
+    <string name="share_url_using">Поделиться ссылкой с помощью:</string>
     <string name="save">Сохранить…</string>
     <string name="save_cert_using">Сохранить сертификат используя:</string>
     <string name="generate_pin">Создание номера</string>
-    <string name="package_name">Наименование пакета</string>
+    <string name="package_name">Наименование пакета:</string>
     <string name="apk_path">Расположение APK:</string>
-    <string name="data_directory">Директория данных:</string>
+    <string name="data_directory">Расположение данных:</string>
     <string name="key_type">Тип ключа:</string>
     <string name="signature_type">Тип подписи:</string>
     <string name="version">Версия:</string>
     <string name="created">Создан:</string>
-    <string name="expires">Срок истекает:</string>
-    <string name="subject">Объект:</string>
-    <string name="issuer">Источник:</string>
+    <string name="expires">Истекает:</string>
+    <string name="subject">Тема:</string>
+    <string name="issuer">Издатель:</string>
     <string name="serial">Серийный номер:</string>
     <!--error messages-->
     <string name="error_cannot_make_fingerprint">Нет возможности получить отпечаток пальца или сертификат подписи.
     </string>
+    <string name="details">Подробности</string>
+    <string name="target_sdk_version">Целевая версия SDK:</string>
+    <string name="error_no_app_entry">Запись приложения не найдена!</string>
+    <string name="public_apk_path">Публичный APK путь:</string>
 </resources>

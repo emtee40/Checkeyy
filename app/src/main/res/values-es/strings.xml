@@ -3,7 +3,7 @@
     <string name="app_name">Checkey</string>
     <string name="app_description">Checkey es una utilidad para recabar información sobre los APK instalados en su dispositivo. Comenzando por una lista de todas las aplicaciones instaladas, le mostrará la firma de cada APK con solo un toque y le brindará enlaces a virustotal.com y androidobservatory.org para un fácil acceso a los perfiles de los APK. También podrá exportar el certificado de firma y generar archivos ApkSignaturePin para utilizar con la biblioteca TrustedIntents.</string>
     <string name="icon">icono</string>
-    <string name="action_settings">Configuración</string>
+    <string name="action_settings">Configuraciones</string>
     <string name="no_applications_found">No se encontraron aplicaciones</string>
     <string name="details">Detalles</string>
     <string name="virustotal">VirusTotal</string>

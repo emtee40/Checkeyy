@@ -25,8 +25,8 @@
     <string name="apk_path">APK Yolu:</string>
     <string name="public_apk_path">Açık APK Yolu:</string>
     <string name="data_directory">Veri Dizini:</string>
-    <string name="key_type">Anahtar Tipi:</string>
-    <string name="signature_type">İmza Tipi:</string>
+    <string name="key_type">Anahtar Türü:</string>
+    <string name="signature_type">İmza Türü:</string>
     <string name="target_sdk_version">Hedeflenen SDK Sürümü:</string>
     <string name="version">Sürüm:</string>
     <string name="created">Oluşturma:</string>

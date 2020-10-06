@@ -1,0 +1,4 @@
++ vereinfachte Übersicht und Ergänzung einer "Detail-Ansicht"
++ behebt alle bekannten Crash-Bugs
++ hinzugefügte Übersetzungen: pt_PT ru sl
++ aktualisierte Übersetzungen: de fi ja nb

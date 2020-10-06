@@ -1,0 +1,4 @@
++ genel bakışı basitleştirildi ve "ayrıntılı görünüm" eklendi
++ bilinen tüm çökmeye neden olan hatalarını düzeltildi
++ eklenen çeviriler: pt_PT ru sl
++ güncellenen çeviriler: de fi ja nb

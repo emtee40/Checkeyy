@@ -1,0 +1,3 @@
++ eklenen çeviriler: de es fi ja ko nb tr
++ tekrar oluşturulabilir derleme işlemi
++ çökmeleri düzeltmek için en son Android v7 desteği eklendi

@@ -30,6 +30,6 @@
     <string name="apk_path">APK-sti:</string>
     <string name="public_apk_path">Offentlig APK-sti:</string>
     <string name="data_directory">Datamappe:</string>
-    <string name="target_sdk_version">Mål for SDK-versjon:</string>
+    <string name="target_sdk_version">Mål SDK-versjon:</string>
     <string name="error_no_app_entry">Fant ingen programoppføring.</string>
 </resources>

@@ -1,0 +1,4 @@
++ zjednodušit overview a přidat "detail view"
++ opravit všechny známé crash bugy
++ přidat překlady: pt_PT ru sl
++ upravit překlady: de fi ja nb

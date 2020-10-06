@@ -1,0 +1,3 @@
++ agregar traducciones: de es fi ja ko nbtr
++ proceso de construcción reproducible
++ agrega la ultima version de  Soporte de Android v7 para reparar  fallas

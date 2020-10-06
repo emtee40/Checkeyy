@@ -1,0 +1,3 @@
++ hinzugefügte Übersetzungen: de es fi ja ko nb tr
++ reproduzierbarer Build-Vorgang
++ neueste Version von Android Support v7 hinzugefügt, um Abstürze zu beheben

@@ -1,0 +1,3 @@
++ powtarzalna kompilacja
++ dodano tłumaczenia: fa fr zh-CN
++ aktualizacja tłumaczeń: de pt_PT tr

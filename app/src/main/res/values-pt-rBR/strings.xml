@@ -29,6 +29,6 @@
     <string name="issuer">Emissor:</string>
     <string name="serial">Nº de série:</string>
     <string name="error_no_app_entry">Não foi encontrada nenhuma entrada de app!</string>
-    <string name="app_description">"Checkey é um utilitário para obter informações sobre os APK\'s instalados no seu dispositivo.  Começando com uma lista de todos os aplicativos que você instalou no seu dispositivo, ele mostrará a assinatura do APK com um único toque e fornecerá links para virustotal.com e androidobservatory.org para acessar facilmente os perfis desse APK.  Ele também permite exportar o certificado de assinatura e gerar arquivos de pinos do ApkSignaturePin para uso com a biblioteca TrustedIntents."</string>
+    <string name="app_description">Checkey é um utilitário para obter informações sobre os APK\'s instalados no seu dispositivo. Começando com uma lista de todos os aplicativos que você instalou no seu dispositivo, ele mostrará a assinatura do APK com um único toque e fornecerá links para virustotal.com e androidobservatory.org para acessar facilmente os perfis desse APK. Ele também permite exportar o certificado de assinatura e gerar arquivos de pinos do ApkSignaturePin para uso com a biblioteca TrustedIntents.</string>
     <string name="error_cannot_make_fingerprint">Não é possível fazer a impressão digital do certificado de assinatura!</string>
 </resources>

@@ -1,0 +1,3 @@
++ dodano tłumaczenia: de es fi ja ko nb tr
++ powtarzalny proces budowy
++ dodano najnowszą obsługę Android w wersji 7, aby naprawić awarie

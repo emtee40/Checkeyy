@@ -1,0 +1,16 @@
+Checkey - це утиліта для отримання відомостей про APK, які встановлені на вашому пристрої. Починаючи зі списку всіх застосунків, які ви встановили на своєму пристрої, він умить вам покаже підпис APK та надасть посилання на virustotal.com та androidobservatory.org для легкого доступу до профілів цього APK. Це також дозволить вам експортувати сертифікат підписання та утворити шпильові файли ApkSignaturePin для використання з бібліотекою TrustedIntents.
+
+★ ВІЛЬНІ ДЖЕРЕЛА: Наш код прозорий. Ви можете поглянути або приєднатися до спільноти, щоб зробити Checkey ще кращим: https://gitlab.com/guardianproject/checkey
+★ МИ СПІЛКУЄМОСЯ ВАШОЮ МОВОЮ: Checkey доступний для людей, що розмовляють: Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
+
+Ви не бачите своєї мови? Приєднуйтесь до нас і допоможіть перекласти застосунок:
+https://hosted.weblate.org/projects/guardianproject/checkey/
+https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
+
+
+***Вивчайте більше***
+★ ПРО НАС: Проєкт Guardian - це група розробників, які роблять безпечні мобільні застосунки та відкритий код для кращого завтрашнього дня
+★ НАША САЙТ: https://GuardianProject.info, щоб дізнатися більше про нас
+★ НА TWITTER: https://twitter.com/guardianproject
+★ ВІЛЬНЕ ПЗ: Checkey - це вільне програмне забезпечення. Ви можете поглянути на наш вихідний код або внести свій внесок у те, щоб зробити Checkey ще кращим: https://gitlab.com/guardianproject/checkey
+★ ПОВІДОМТЕ НАС: Не вистачає улюбленої функції? Знайшли дратівливу помилку? Скажіть будь ласка! Ми хотіли б почути від вас. Надішліть нам електронний лист: support@guardianproject.info або знайдіть нас у нашій кімнаті чату https://guardianproject.info/contact

@@ -1,0 +1,3 @@
++ tekrar oluşturulabilir derleme
++ eklenen çeviriler: fa fr zh-CN
++ güncellenen çeviriler: de pt_PT tr

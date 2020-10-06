@@ -1,0 +1,15 @@
+Checkey estas ilo por akiri informojn pri instalitaj APK-pakaĵojn en via aparato. Ĝi montras liston de ĉiuj instalitajn aplikaĵojn, subskribon de ĉiu apo kaj ligiloj al virustotal.com kaj androidobservatory.org por rapide vidigi profilojn pri tiuj aplikaĵoj. La programo ankaŭ ebligas elporti subskriban atestilon kaj generi alpinglitajn dosierojn ApkSignaturePin por uzi kun la biblioteko TrustedIntents.
+
+★ Malferma kodo: la fontkodo estas memklara. Vi povas analizi ĝin aŭ aliĝi al la komunumo por igi Checkey pli bona: https://gitlab.com/guardianproject/checkey
+★ Plurlingva: Checkey estas disponebla en la jenaj lingvoj: Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português, Русский, Slovenščina, Türkçe kaj pli
+
+Por traduki la aplikaĵon, vizitu:
+https://hosted.weblate.org/projects/guardianproject/checkey/
+https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
+
+***PLIAJ INFORMOJ***
+★ Pri: Guardian Project estas grupo da programistoj laborantaj pri sekuraj malfermkodaj poŝtelefonaj aplikaĵoj por li bona estonteco.
+★ Retejo: https://GuardianProject.info
+★ Twitter: https://twitter.com/guardianproject
+★ Libera programaro: Checkey estas libera programaro. Vi povas kontroli la fontkodon aŭ kontribui por igi la aplikaĵon pli bona: https://gitlab.com/guardianproject/checkey
+★ Kontakti: Ĉu iu eblaĵo mankas? Ĉu vi trovis eraron? Bonvolu sciigi nin! Ni tre volus aŭskulti vin. Skribu al ni retleteron: support@guardianproject.info aŭ trovu nin en la babilejo: https://guardianproject.info/contact

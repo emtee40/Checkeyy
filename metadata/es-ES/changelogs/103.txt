@@ -1,0 +1,3 @@
++construcción reproducible
++Agregar traducciones
++Actualizar traducciones:de pt_PT tr

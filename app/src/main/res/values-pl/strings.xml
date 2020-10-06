@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Checkey</string>
     <string name="app_description">Checkey to narzędzie do zbierania informacji o plikach APK które są zainstalowane
@@ -26,7 +26,7 @@
     <string name="data_directory">Folder Danych:</string>
     <string name="key_type">Typ Klucza:</string>
     <string name="signature_type">Typ Podpisu:</string>
-    <string name="target_sdk_version">Docelowa Wersja SDK</string>
+    <string name="target_sdk_version">Docelowa wersja SDK:</string>
     <string name="version">Wersja:</string>
     <string name="created">Utworzono:</string>
     <string name="expires">Wygasa:</string>

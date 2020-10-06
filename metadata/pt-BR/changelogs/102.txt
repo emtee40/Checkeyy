@@ -1,0 +1,4 @@
++ simplificar visão geral e "vista detalhada"
++ corrigir todos os erros de bug
++ adicionar traduções: pt_PT ru sl
++ atualizar traduções: de fi ja nb

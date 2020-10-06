@@ -1,0 +1,3 @@
++ přidat překlady: de es fi ja ko nb tr
++ reprodukovatelný build proces
++ opravid pády aplikace přidáním nejnovější Android Support v7

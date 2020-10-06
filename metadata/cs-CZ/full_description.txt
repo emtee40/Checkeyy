@@ -1,0 +1,16 @@
+Checkey je utilita pro získávání informací o aplikacích nainstalovaných na vašem zařízení. Začíná seznamem všech aplikací, které máte nainstalovány. Jedním klikem zobrazí podpis aplikace a poskytuje odkazy na virustotal.com a androidobservatory.org pro snadný přístup k profilům dané aplikace. Také umožňuje exportovat podpisový certifikát a vygenerovat ApkSignaturePin pin soubory pro použití v knihovně TrustedIntents.
+
+★ OPEN SOURCE: Náš kód je transparentní. Můžete si ho prohlédnout nebo se můžete přidat a pomoct udělat Checkey ještě lepší: https://gitlab.com/guardianproject/checkey
+★ MLUVÍME VAŠÍM JAZYKEM: Checkey je dostupný kamarádům, kteří hovoří: Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
+
+Nevidíte svůj jazyk? Připojte se a pomozte aplikaci přeložit:
+https://hosted.weblate.org/projects/guardianproject/checkey/
+https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
+
+
+***Chci vědět více***
+★ O NÁS: Projekt Guardian je skupina vývojářů, kteří tvoří bezpečné mobilní aplikace a open source pro lepší budoucnost
+★ NÁŠ WEB: https://GuardianProject.info kde se dozvíte více
+★ TWITTER: https://twitter.com/guardianproject
+★ FREE SOFTWARE: Checkey je volný software. Může se podívat na naše zdrojové kódy nebo přispět a udělat Checkey ještě lepší: https://gitlab.com/guardianproject/checkey
+★ NAPIŠTE NÁM: Chybí nám váše oblíbená vlastnost? Našli jste otravnou chybu? Řekněte nám o tom, prosím. Rádi vás vyslechneme. Pošlete nám email: support@guardianproject.info nebo nás hledejte na našem chatu https://guardianproject.info/contact

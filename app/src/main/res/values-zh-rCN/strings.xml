@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Checkey</string>
     <string name="app_description">Checkey 是一个获得已安装 APK 相关信息的实用工具。它从您的设备上已安装的所有应用开始，一键触摸即可显示 APK 的指纹，并且提供到达
@@ -19,7 +19,7 @@
     <string name="save">保存…</string>
     <string name="save_cert_using">保存证书使用：</string>
     <string name="generate_pin">生成 PIN</string>
-    <string name="package_name">包名称</string>
+    <string name="package_name">包名称：</string>
     <string name="apk_path">APK 路径：</string>
     <string name="public_apk_path">公用 APK 路径：</string>
     <string name="data_directory">数据目录：</string>

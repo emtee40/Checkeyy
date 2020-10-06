@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Checkey</string>
-    <string name="app_description">Checkey é um utilitário para obter informação sobre as APKs que estão instaladas no seu dispositivo. Começando com uma lista de todas as apps que estão instaladas no seu dispositivo. Esta irá mostrar-lhe a assinatura APK com um único toque, e proporciona hiperligações para virustotal.com e androidobservatory.org para aceder facilmente aos perfis dessa APK. Esta também irá deixá-lo exportar o certificado de assinatura e gerar os ficheiros de código PIN ApkSignaturePin para usar com a biblioteca TrustedIntents.</string>
+    <string name="app_description">Checkey é um utilitário para obter informação sobre as APKs que estão instaladas no seu aparelho. Começando com uma lista de todas as aplicações que estão instaladas no seu aparelho, esta irá mostrar-lhe a assinatura APK com um único toque, e fornecer hiperligações para virustotal.com e androidobservatory.org para aceder facilmente aos perfis dessa APK. Esta também irá deixá-lo exportar o certificado de assinatura e gerar os ficheiros de código PIN ApkSignaturePin para usar com a biblioteca TrustedIntents.</string>
     <string name="icon">ícone</string>
-    <string name="action_settings">Configurações</string>
+    <string name="action_settings">Definições</string>
     <string name="no_applications_found">Não foram encontradas aplicações</string>
     <string name="details">Detalhes</string>
     <string name="virustotal">VirusTotal</string>
@@ -12,10 +12,10 @@
     <string name="by_signing_certificate">Certificado de assinatura</string>
     <string name="open_in_browser">Abrir no navegador</string>
     <string name="share">Partilhar</string>
-    <string name="share_url_using">Partilhar URL utilizando:</string>
+    <string name="share_url_using">Partilhar URL, usando:</string>
     <string name="save">Guardar…</string>
-    <string name="save_cert_using">Guardar certificado utilizando:</string>
-    <string name="generate_pin">Gerar PIN</string>
+    <string name="save_cert_using">Guardar certificado, usando:</string>
+    <string name="generate_pin">Gerar CÓDIGO</string>
     <string name="package_name">Nome do pacote:</string>
     <string name="apk_path">Caminho do APK:</string>
     <string name="public_apk_path">Caminho do APK público:</string>

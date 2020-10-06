@@ -1,0 +1,3 @@
++ novaj tradukoj: germana, hispana, japana, korea, norvega Bokmål, turka
++ reproduktebla kompilaĵo
++ plej aktuala Android Support v7 por eviti paneojn

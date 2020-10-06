@@ -1,10 +1,16 @@
-Checkey ist eine öffentliche Dienstleistung um Informationen über Anwendungen die auf deinem Gerät installiert sind, zu bekommen. Beginne mit einer Liste mit allen Apps die du auf deinem Gerät installiert hast, es zeigt sich dir die Applikations Signatur mit einer einfachen Berührung und bietet Links zu virustotal.com und androidobservatery,org um einfachen Zugriff auf die Profile der Applikation zu bekommen. Es erlaubt dir außerdem das signierte Zertifikat zu exportieren und einen Applikations Signatur Pin zu erzeugen für die Verwendung mit der TrustedIntends Bücherei.
-Wir s
-Du siehst deine Sprache nicht? Schließe dich uns an und übersetze die App:
+Checkey ist ein Dienstprogramm, um Informationen über die APKs zu erhalten, die auf Ihrem Gerät installiert sind. Ausgehend von einer Liste aller Apps, die Sie auf Ihrem Gerät installiert haben, zeigt es Ihnen die APK-Signatur mit einem einzigen Tastendruck an und bietet Links zu virustotal.com und androidobservatory.org, um einfach auf die Profile dieser APK zuzugreifen. Außerdem können Sie das Signaturzertifikat exportieren und ApkSignaturePin-Pin-Dateien für die Verwendung mit der TrustedIntents-Bibliothek generieren.
+
+★ OPEN-SOURCE: Unser Quelltext ist transparent. Sie können einen Blick darauf werfen oder der Community beitreten, um Checkey noch besser zu machen: https://gitlab.com/guardianproject/checkey
+★ WIR SPRECHEN IHRE SPRACHE: Checkey steht für Freunde in folgenden Sprachen zur Verfügung: Deutsch, English, Español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
+
+Sehen Sie Ihre Sprache nicht? Kommen Sie zu uns und helfen Sie bei der Übersetzung der App:
 https://hosted.weblate.org/projects/guardianproject/checkey/
 https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
 
-***Erfahren Sie mehr***
-★ UNSERE WEBSEITE: https://GuardianProject.info
+
+***Mehr darüber erfahren***
+★ ÜBER UNS: Guardian Project ist eine Gruppe von Entwicklern, die sichere mobile Anwendungen und Open-Source-Code für eine bessere Zukunft entwickeln.
+★ UNSERE WEBSITE: https://GuardianProject.info, um mehr über uns zu erfahren.
 ★ AUF TWITTER: https://twitter.com/guardianproject
-https://gitlab.com/guardianproject/checkey
+★ FREIE SOFTWARE: Checkey ist freie Software. Sie können einen Blick auf unseren Quellcode werfen oder dazu beitragen, Checkey noch besser zu machen: https://gitlab.com/guardianproject/checkey
+★ UNS BENACHRICHTIGEN: Fehlt Ihr Lieblingsfeature? Haben Sie einen lästigen Fehler gefunden? Bitte sagen Sie es uns! Wir würden uns freuen, von Ihnen zu hören. Schicken Sie uns eine E-Mail: support@guardianproject.info oder finden Sie uns in unserem Chatroom https://guardianproject.info/contact

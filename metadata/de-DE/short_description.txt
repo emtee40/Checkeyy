@@ -1,1 +1,1 @@
-genutzt um Informationen über die APKs zu bekommen auf deinem Gerät installiert
+Dienstprogramm zum Abrufen von Informationen über die installierten APKs

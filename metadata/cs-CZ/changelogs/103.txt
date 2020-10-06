@@ -1,0 +1,3 @@
++ reprodukovatený build
++ přidat překlady: fa fr zh-CN
++ upravit překlady: de pt_PT tr

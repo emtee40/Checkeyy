@@ -1,0 +1,3 @@
++ reproducible Build
++ hinzugefügte Übersetzungen: fa fr zh-CN
++ aktualisierte Übersetzungen: de pt_PT tr

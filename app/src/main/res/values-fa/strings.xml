@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Checkey</string>
     <string name="icon">آیکون</string>
@@ -30,4 +30,6 @@
     <string name="serial">سریال:</string>
     <!--error messages-->
     <string name="error_cannot_make_fingerprint">نمی توان ساخت اثر انگشت از گواهی امضا!</string>
+    <string name="app_description">Checkey یک ابزار برای گرفتن اطلاعات در مورد Apk هایی است که بر روی دستگاه شما نصب شده اند. با شروع یک لیست از تمام برنامه هایی که در دستگاه خود نصب کرده اید ، امضای APK را با یک لمس واحد نشان می دهد و پیوندهایی به virustotal.com و androidobservatory.org فراهم می کند تا به راحتی به نمایه های آن APK دسترسی پیدا کند. همچنین مجوز امضای شما را صادر می کند و فایل های ApkSignaturePin pin را برای استفاده با کتابخانه TrustedIntents ایجاد کنید.</string>
+    <string name="error_no_app_entry">هیچ برنامه ای یافت نشد!</string>
 </resources>
